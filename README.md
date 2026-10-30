@@ -52,5 +52,6 @@ I'm particularly interested in offensive security, although I'm still exploring 
 
 - [LinkedIn](https://www.linkedin.com/in/shakthipriyan-sivakumar-77a9411bb)
 - [GitHub](https://github.com/sspriyan02)
+- [hashnode](https://hashnode.com/@priyanverse)
 
 
